@@ -1,6 +1,6 @@
-# Scalable Backend & API Platform (Portfolio Sample)
+﻿# Scalable Backend & API Platform (Portfolio Sample)
 
-Portfolio demonstration of a production-style backend layout: clear boundaries between HTTP, business logic, and data access â€” with auth, validation, consistent errors, and tests.
+Portfolio demonstration of a production-style backend layout: clear boundaries between HTTP, business logic, and data access — with auth, validation, consistent errors, and tests.
 
 > This is a **demo codebase for technical interviews / evaluation calls**, reflecting patterns used in real API work (not a client proprietary system).
 
@@ -47,7 +47,7 @@ pytest -q
 
 ## What to walk through on a call
 
-1. Request flow: route â†’ service â†’ repository
+1. Request flow: route → service → repository
 2. Auth + authorization checks
 3. Validation and error shape
 4. One trade-off (why layered services vs fat routes)
